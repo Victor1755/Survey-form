@@ -103,5 +103,5 @@ padding: 2rem 2rem;
 background-color: #1b1b32;
 }
 
-** end of undefined **
+/* end of CSS */
 
